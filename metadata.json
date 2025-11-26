@@ -1,0 +1,71 @@
+{
+  "name": "Copy of DOULIA ",
+  "description": "DOULIA aide les PME au Cameroun à propulser leur croissance grâce à l'intelligence artificielle. Chatbots, Automatisation et Analyse de données.",
+  "keywords": [
+    "Intelligence Artificielle Cameroun",
+    "IA Douala",
+    "Chatbot WhatsApp Cameroun",
+    "Automatisation PME",
+    "Solutions IA Afrique",
+    "DOULIA",
+    "Digitalisation Cameroun"
+  ],
+  "pages": {
+    "home": {
+      "title": "DOULIA - Solutions d'Intelligence Artificielle pour PME au Cameroun",
+      "description": "Propulsez votre croissance avec DOULIA. Experts en IA à Douala : chatbots WhatsApp, automatisation des processus et analyse de données pour les entreprises camerounaises.",
+      "keywords": [
+        "IA Cameroun",
+        "Intelligence Artificielle Douala",
+        "Agence IA Cameroun",
+        "Solutions IA PME",
+        "Transformation Numérique Afrique"
+      ]
+    },
+    "connect": {
+      "title": "DOULIA Connect - Chatbots WhatsApp et Service Client IA",
+      "description": "Transformez votre service client avec DOULIA Connect. Assistants virtuels 24/7 sur WhatsApp et Web pour prise de RDV et qualification de prospects.",
+      "keywords": [
+        "Chatbot WhatsApp Cameroun",
+        "Service Client Automatisé",
+        "Assistant Virtuel IA",
+        "Chatbot Douala",
+        "Qualification Prospects IA"
+      ]
+    },
+    "process": {
+      "title": "DOULIA Process - Automatisation et RPA pour Entreprises",
+      "description": "Réduisez la paperasse et les tâches répétitives. DOULIA Process déploie des agents IA pour automatiser vos rapports et opérations internes.",
+      "keywords": [
+        "RPA Cameroun",
+        "Automatisation Processus Métier",
+        "Logiciel Gestion PME",
+        "IA Productivité Entreprise",
+        "Digitalisation Administrative"
+      ]
+    },
+    "insight": {
+      "title": "DOULIA Insight - Business Intelligence et Analyse de Données",
+      "description": "Exploitez vos données pour vendre mieux. Prédiction des ventes, optimisation des stocks et marketing ciblé grâce à l'IA.",
+      "keywords": [
+        "Business Intelligence Douala",
+        "Analyse de Données PME",
+        "Prédiction Ventes IA",
+        "Big Data Cameroun",
+        "Marketing Prédictif"
+      ]
+    },
+    "contact": {
+      "title": "Contactez DOULIA - Devis et Démo Solutions IA",
+      "description": "Demandez votre diagnostic gratuit ou une démo de nos solutions IA. Basé à Douala, Cameroun. Contactez-nous sur WhatsApp ou par email.",
+      "keywords": [
+        "Contact Agence IA",
+        "Devis Chatbot",
+        "Expert IA Douala",
+        "Consultation Intelligence Artificielle",
+        "Démo Solution IA"
+      ]
+    }
+  },
+  "requestFramePermissions": []
+}
